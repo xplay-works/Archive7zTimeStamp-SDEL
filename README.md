@@ -10,9 +10,13 @@ If you do it more often it is nice to have a timestamped archive and delete fold
 
 # PREREQUISITES
 You will need
-Windows
-Admin rights to install the reg file
-  PowerShell
-  7z (64 bit version, else you need to modify the code)
+* Windows
+* Admin rights to install the reg file
+* PowerShell
+* 7z (64 bit version, else you need to modify the code)
 > [!TIP]
 > Some luck
+
+# TESTED WITH
+* Windows 11
+* PowerShell 5.1 Build 26080 Revision 1
