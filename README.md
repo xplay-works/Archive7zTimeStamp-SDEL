@@ -7,12 +7,6 @@ Plus -sdel (Delete folder after compression) switch syntax.
 
 
 # IDEA
-If you mess around with some folders it's nice to have a backup/archive of it. 
-
-7Zip has a nice context menu to do it quite quickly. 
-
-If you do it more often it is nice to have a timestamped archive and delete folder automatically.
-
 :vulcan_salute: Credit: https://github.com/timosperisen
 
 # PREREQUISITES
