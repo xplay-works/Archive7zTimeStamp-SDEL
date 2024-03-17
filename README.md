@@ -1,7 +1,10 @@
 # Archive7zTimeStamp-SDEL
 Adds a context menu entry for folders to Windows explorer. 
+
 This lets you create a timestamped archive of a folder with two clicks.
+
 Plus -sdel (Delete folder after compression) switch syntax.
+
 
 # IDEA
 If you mess around with some folders it's nice to have a backup/archive of it. 
