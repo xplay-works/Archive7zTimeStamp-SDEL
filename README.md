@@ -13,7 +13,7 @@ If you mess around with some folders it's nice to have a backup/archive of it.
 
 If you do it more often it is nice to have a timestamped archive and delete folder automatically.
 
-:saluting_face: Credit: https://github.com/timosperisen
+:vulcan_salute: Credit: https://github.com/timosperisen
 
 # PREREQUISITES
 You will need
